@@ -1,0 +1,68 @@
+[PropertyInfo]
+applyGreyT,JButton,false,false, , ,false,<default>
+applyRidgeC,JButton,false,false, , ,false,<default>
+applySize,JButton,false,false, , ,false,<default>
+applySizeT,JButton,false,false, , ,false,<default>
+autoCapture,JCheckBox,false,false, , ,false,<default>
+AutoCapturing,JPanel,false,false, , ,false,<default>
+black,JTextField,false,false, , ,false,<default>
+Brightness,JTextField,false,false, , ,false,<default>
+bScannerIsConnected,boolean,false,false, , ,false,<default>
+bUSB2_Scanner,boolean,false,false, , ,false,<default>
+Buttons,JPanel,false,false, , ,false,<default>
+Contrast,JTextField,false,false, , ,false,<default>
+cProductCode,byte,false,false, , ,false,<default>
+fileDlg,JFileChooser,false,false, , ,false,<default>
+flipHorizontal,JCheckBox,false,false, , ,false,<default>
+flipVertical,JCheckBox,false,false, , ,false,<default>
+Gain,JTextField,false,false, , ,false,<default>
+Geometry,JPanel,false,false, , ,false,<default>
+gridBagLayout1,GridBagLayout,false,false, , ,false,<default>
+gridBagLayout3,GridBagLayout,false,false, , ,false,<default>
+gridBagLayout4,GridBagLayout,false,false, , ,false,<default>
+gridBagLayout5,GridBagLayout,false,false, , ,false,<default>
+gridBagLayout6,GridBagLayout,false,false, , ,false,<default>
+gridLayout1,GridLayout,false,false, , ,false,<default>
+gridLayout2,GridLayout,false,false, , ,false,<default>
+heightT,JTextField,false,false, , ,false,<default>
+hRidge,JTextField,false,false, , ,false,<default>
+ImageSize,JPanel,false,false, , ,false,<default>
+imgHeight,JTextField,false,false, , ,false,<default>
+imgWidth,JTextField,false,false, , ,false,<default>
+initialize,JButton,false,false, , ,false,<default>
+invert,JCheckBox,false,false, , ,false,<default>
+jLabel10,JLabel,false,false, , ,false,<default>
+jLabel11,JLabel,false,false, , ,false,<default>
+jLabel12,JLabel,false,false, , ,false,<default>
+jLabel13,JLabel,false,false, , ,false,<default>
+jLabel14,JLabel,false,false, , ,false,<default>
+jLabel15,JLabel,false,false, , ,false,<default>
+jLabel5,JLabel,false,false, , ,false,<default>
+jLabel6,JLabel,false,false, , ,false,<default>
+jLabel7,JLabel,false,false, , ,false,<default>
+jLabel8,JLabel,false,false, , ,false,<default>
+jLabel9,JLabel,false,false, , ,false,<default>
+jniAL,ActionListener,false,false, , ,false,<default>
+liveMode,JButton,false,false, , ,false,<default>
+Rot_0,JRadioButton,false,false, , ,false,<default>
+Rot_180,JRadioButton,false,false, , ,false,<default>
+Rot_270,JRadioButton,false,false, , ,false,<default>
+Rot_90,JRadioButton,false,false, , ,false,<default>
+Rotation,JPanel,false,false, , ,false,<default>
+saveImage,JButton,false,false, , ,false,<default>
+saveSettings,JButton,false,false, , ,false,<default>
+thread,ImageThread,false,false, , ,false,<default>
+vBrightness,JSlider,false,false, , ,false,<default>
+vContrast,JSlider,false,false, , ,false,<default>
+vGain,JSlider,false,false, , ,false,<default>
+Video,JPanel,false,false, , ,false,<default>
+vImage,JButton,false,false, , ,false,<default>
+vRidge,JTextField,false,false, , ,false,<default>
+vRotation,ButtonGroup,false,false, , ,false,<default>
+white,JTextField,false,false, , ,false,<default>
+widthT,JTextField,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
